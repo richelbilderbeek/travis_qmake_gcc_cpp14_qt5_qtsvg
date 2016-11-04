@@ -6,7 +6,7 @@
 
 This GitHub is part of [the Travis C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial).
 
-![qrc_travis_qmake_gcc_cpp14_qt5_qtsvg](qrc_travis_qmake_gcc_cpp14_qt5_qtsvg.png)
+![Screenshot](travis_qmake_gcc_cpp14_qt5_qtsvg.png)
 
 The goal of this project is to have a clean Travis CI build, with specs:
  * Build system: `qmake`
