@@ -15,9 +15,6 @@ RESOURCES += travis_qmake_gcc_cpp14_qt5_qtsvg.qrc
 
 # C++11
 CONFIG += c++11
-QMAKE_CXX = g++-5
-QMAKE_LINK = g++-5
-QMAKE_CC = gcc-5
 QMAKE_CXXFLAGS += -std=c++11
 
 # Prevent Qt for failing with this error:
