@@ -14,6 +14,7 @@ HEADERS += my_dialog.h
 RESOURCES += travis_qmake_gcc_cpp14_qt5_qtsvg.qrc
 
 # C++11
+CONFIG += c++11
 QMAKE_CXX = g++-5
 QMAKE_LINK = g++-5
 QMAKE_CC = gcc-5
